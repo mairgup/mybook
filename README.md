@@ -1,5 +1,5 @@
-# mybook
+# Introduction
 
-This is only a start.
+Chinese translation of "Neural Machine Translation and Sequence-to-sequence Models: A Tutorial"
 
-This is from home.
+  https://arxiv.org/abs/1703.01619
